@@ -68,11 +68,11 @@ flowchart TD
 
 <div align="center">
   <img
-    width="500"
+    width="400"
     src="https://github-readme-stats.vercel.app/api?username=sns1sns&show_icons=true&theme=react&hide_border=true&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9"
   />
   <img
-    width="380"
+    width="305"
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=sns1sns&layout=compact&theme=react&hide_border=true&title_color=58A6FF&text_color=C9D1D9"
   />
 </div>
