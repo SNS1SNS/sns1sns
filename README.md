@@ -6,13 +6,13 @@
   </a>
 </h1>
 <p align="center">
-  <a href="https://www.linkedin.com/in/sns1sns">
+  <a href="https://www.linkedin.com/in/sns1sns](https://www.linkedin.com/in/nursultan-sarymov-348848379">
     <img src="https://img.shields.io/badge/LinkedIn-58A6FF?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="mailto:your@email.com">
+  <a href="mailto:sns1sns@outlook.com">
     <img src="https://img.shields.io/badge/Email-58A6FF?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
-  <a href="https://t.me/yourtelegram">
+  <a href="https://t.me/@programming_nurs">
     <img src="https://img.shields.io/badge/Telegram-58A6FF?style=for-the-badge&logo=telegram&logoColor=white"/>
   </a>
 </p>
