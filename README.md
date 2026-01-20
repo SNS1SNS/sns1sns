@@ -28,7 +28,7 @@
 <h2 align="center" style="color:#58A6FF">🛠 Tech Stack</h2>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,spring,kotlin,postgres,kafka,docker,redis,react,angular,python&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=java,spring,kotlin,postgres,kafka,docker,redis,rabbitmq,react,angular,python&theme=dark" />
 </p>
 
 
