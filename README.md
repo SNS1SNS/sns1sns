@@ -30,7 +30,7 @@
 <p align="center">
   <img src="https://skillicons.dev/icons?i=java,spring,kotlin,postgres,kafka,docker,redis,react,angular,python&theme=dark" />
 </p>
-![snake gif](https://github.com/sns1sns/sns1sns/blob/output/github-contribution-grid-snake.svg)
+![snake gif](https://raw.githubusercontent.com/sns1sns/sns1sns/output/github-contribution-grid-snake.svg)
 
 
 ```mermaid
