@@ -59,6 +59,10 @@ flowchart TD
 <h2 align="center">📊 GitHub Stats</h2>
 
 <br>
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=sns1sns&theme=github-dark&hide_border=true&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF" />
+</p>
+
 
 <div align="center">
   <img
@@ -84,11 +88,7 @@ flowchart TD
 
 <br>
 
-<p align="center">
-  <img
-    src="https://streak-stats.demolab.com?user=sns1sns&theme=github-dark&hide_border=true&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF"
-  />
-</p>
+
 
 <!--
 
